@@ -2,10 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\components",
+    "\\src\\components\\Layout",
+    "\\src\\components\\Sections",
+    "\\src\\components\\Sections\\Contact",
+    "\\src\\components\\Sections\\Resume",
     "\\src\\data",
     "\\src\\images",
     "\\src\\images\\portfolio"
   ],
-  "SelectedNode": "\\src\\images\\portfolio\\portfolio-3.jpg",
+  "SelectedNode": "\\src\\components\\Sections\\Resume\\index.tsx",
   "PreviewInSolutionExplorer": false
 }
